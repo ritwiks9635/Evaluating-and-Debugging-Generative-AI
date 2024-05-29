@@ -1,5 +1,7 @@
 # Evaluating-and-Debugging-Generative-AI
 
+[Complete](https://learn.deeplearning.ai/accomplishments/30f3a630-4ca8-4386-9ffe-e6453f770a98?usp=sharing)
+
 ![](https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/0504682be405.png)
 
 In the generative AI evaluation service, you can use computation-based metrics through the Pipeline and rapid evaluation Python SDK. The computation-based evaluation might be performed in only pointwise use cases. However, you can directly compare the metrics scores of two models for a pairwise comparison.
